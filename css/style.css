@@ -1,0 +1,5 @@
+/*put your scss here*/
+h2, li {
+  border: 2px solid black;
+  list-style: none;
+}
